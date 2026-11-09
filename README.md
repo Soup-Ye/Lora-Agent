@@ -1,7 +1,6 @@
 <!-- lora-current-release -->
 **最新下载：[Lora 1.03 源码包](https://github.com/Soup-Ye/Lora-Agent/releases/tag/v1.03)**
 
-源码包不含 QQ、私人数据、运行依赖、游戏大师或 TTS；使用前请阅读包内说明。
 <!-- /lora-current-release -->
 
 # Lora-Agent
