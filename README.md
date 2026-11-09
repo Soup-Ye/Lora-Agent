@@ -1,3 +1,9 @@
+<!-- lora-current-release -->
+**最新下载：[Lora 1.03 源码包](https://github.com/Soup-Ye/Lora-Agent/releases/tag/v1.03)**
+
+源码包不含 QQ、私人数据、运行依赖、游戏大师或 TTS；使用前请阅读包内说明。
+<!-- /lora-current-release -->
+
 # Lora-Agent
 Lora 是基于QQ agnet项目二次开发的，一个面向 QQ 场景的可视化 AI 智能体系统。
 1.集成多账号接入、人设管理、知识库路由、上下文回忆、印象学习与自主日程，拥有持续的身份与互动体验。
